@@ -1,4 +1,11 @@
-## Hi there 👋
+## Light 💡
+
+Light is a personal AI assistant from the future designed to learn your habits. The more Light learns about you the more capable Light becomes at giving time back to you in every area of your life. 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/LightAI?style=social)
+
+
+# Privacy Policy [Here](https://www.lightpai.com/privacy)
 
 <!--
 
